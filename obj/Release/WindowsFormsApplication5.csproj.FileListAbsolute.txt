@@ -1,0 +1,9 @@
+D:\AAAAA\UAS\MultiUAV\WindowsFormsApplication5\WindowsFormsApplication5\bin\Release\WindowsFormsApplication5.exe.config
+D:\AAAAA\UAS\MultiUAV\WindowsFormsApplication5\WindowsFormsApplication5\bin\Release\WindowsFormsApplication5.exe
+D:\AAAAA\UAS\MultiUAV\WindowsFormsApplication5\WindowsFormsApplication5\bin\Release\WindowsFormsApplication5.pdb
+D:\AAAAA\UAS\MultiUAV\WindowsFormsApplication5\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+D:\AAAAA\UAS\MultiUAV\WindowsFormsApplication5\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.Form1.resources
+D:\AAAAA\UAS\MultiUAV\WindowsFormsApplication5\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.Properties.Resources.resources
+D:\AAAAA\UAS\MultiUAV\WindowsFormsApplication5\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.csproj.GenerateResource.Cache
+D:\AAAAA\UAS\MultiUAV\WindowsFormsApplication5\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.exe
+D:\AAAAA\UAS\MultiUAV\WindowsFormsApplication5\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.pdb
